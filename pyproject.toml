@@ -1,0 +1,9 @@
+[project]
+name = "comfyui-assert"
+description = "Assert nodes for ComfyUI: pass a value through, or stop the workflow with your own error message when a condition is false."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[tool.comfy]
+DisplayName = "ComfyUI-Assert"
